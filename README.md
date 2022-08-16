@@ -16,6 +16,7 @@
 - <b>Exploratory Data Analyses </b>
   - [Covid Deaths VS Vacinations (SQL)](https://github.com/venantn/COVIDProject)
   - [Student T-Test on FTIR Spectra of Lymphoma and Normal Samples (Python)](https://github.com/venantn/FTIR-Lymphoma-Analysis)
+  - [Exploring the Haar Function (Python)](https://github.com/venantn/Plotting-Haar-Func)
 - <b>Predictive Modeling </b>
   - [Predictive Modeling with Snapchat Ads (Python)](https://github.com/venantn/AdEDA)
 
