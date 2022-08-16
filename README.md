@@ -11,11 +11,11 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Student T-Test on FTIR Spectra of Lymphoma and Normal Samples (Python)](https://github.com/venantn/FTIR-Lymphoma-Analysis)
  -->
 - <b>Exploratory Data Analyses </b>
   - [Covid Deaths VS Vacinations (SQL)](https://github.com/venantn/COVIDProject)
-  
+  - [Student T-Test on FTIR Spectra of Lymphoma and Normal Samples (Python)](https://github.com/venantn/FTIR-Lymphoma-Analysis)
 - <b>Predictive Modeling </b>
   - [Predictive Modeling with Snapchat Ads (Python)](https://github.com/venantn/AdEDA)
 
