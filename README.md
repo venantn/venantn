@@ -23,8 +23,11 @@
   - [Predictive Modeling with Snapchat Ads (Python)](https://github.com/venantn/AdEDA)
     
 <h2>👨‍💻 Web Development Projects:</h2>
+
 - <b>FrontEnd Responsive Mobile Friendly Web App (React, Node, SCSS/CSS) </b>
   - [Redesign of Clinical Homepage](https://github.com/venantn/sbc)
+
+
 
 <!--
 <h2> 🤳 Connect with me:</h2>
