@@ -24,7 +24,7 @@
     
 <h2>👨‍💻 Web Development Projects:</h2>
 - <b>FrontEnd Responsive Mobile Friendly Web App (React, Node, SCSS/CSS) </b>
-  - [Covid Deaths VS Vacinations (SQL)](https://github.com/venantn/sbc)
+  - [Redesign of Clinical Homepage](https://github.com/venantn/sbc)
 
 <!--
 <h2> 🤳 Connect with me:</h2>
