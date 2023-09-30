@@ -1,4 +1,10 @@
 <h1>Hi, I'm Nicolette!
+<h2>👨‍💻 Web Development Projects:</h2>
+
+- <b>FrontEnd Responsive Mobile Friendly Web App (React, Node, SCSS/CSS) </b>
+  - [Redesign of Clinical Homepage](https://github.com/venantn/sbc)
+- <b>Simple Program (Vanilla Javascript, CSS, HTML) </b>
+  - [AAC Device Prep](https://github.com/venantn/aacprep)
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
@@ -22,10 +28,7 @@
 - <b>Predictive Modeling </b>
   - [Predictive Modeling with Snapchat Ads (Python)](https://github.com/venantn/AdEDA)
     
-<h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>FrontEnd Responsive Mobile Friendly Web App (React, Node, SCSS/CSS) </b>
-  - [Redesign of Clinical Homepage](https://github.com/venantn/sbc)
 
 
 
